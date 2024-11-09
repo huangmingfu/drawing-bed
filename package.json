@@ -6,10 +6,6 @@
   "scripts": {
     "push": "git add . && git commit -m \"update\" && git push"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://gitee.com/friend-z/drawing-bed.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC"
